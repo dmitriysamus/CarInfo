@@ -1,0 +1,44 @@
+#vars {
+border: 1px black solid;
+}
+
+* {
+font-family: serif;
+}
+
+p, table, ul, a {
+font-family: serif;
+font-size: 28px;
+}
+
+h1 {
+font-family: serif;
+font-size: 90px;
+font-weight: bold
+}
+
+h2 {
+font-family: serif;
+font-size: 58px;
+}
+
+h3 {
+font-family: serif;
+font-size: 40px;
+}
+
+#author {
+text-align: center}
+
+#authorText {
+margin-left: 10%
+}
+
+hr {
+width: 70%;
+margin-left: 15%;}
+
+a{
+margin-left: 43%;
+}
+
